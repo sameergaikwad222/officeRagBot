@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-qdrant
+qdrant-client
+langchain
+langchain-openai
+langchain-google-genai
+langchain-ollama
